@@ -28,7 +28,7 @@
 0. **新規ファイル作成**
 
    - npx zenn new:article で、新規ファイルを作成する
-     - 新規ファイルに記事内容を記述していく
+     - 作成されたファイルに記事内容を記述していく
      - tagには、下記を追加する
        - publication_name: "three_dots_inc"
 

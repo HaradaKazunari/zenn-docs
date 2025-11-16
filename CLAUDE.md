@@ -25,6 +25,13 @@
 
 ### Phase 1: 初期セットアップ
 
+0. **新規ファイル作成**
+
+   - npx zenn new:article で、新規ファイルを作成する
+     - 新規ファイルに記事内容を記述していく
+     - tagには、下記を追加する
+       - publication_name: "three_dots_inc"
+
 1. **情報収集** (Reviewer)
 
    - 基本情報収集
@@ -53,6 +60,10 @@
 ### Phase 3: AIということの開示
 
 記事の最後のセクションにAIでの記事作成を試している旨を記載する
+
+### Phase 4: 記事を公開
+
+tagの、publishedをtrueに変更する
 
 ## レビュー基準
 
